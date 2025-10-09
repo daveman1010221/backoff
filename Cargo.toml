@@ -1,5 +1,5 @@
 [package]
-name = "backoff"
+name = "cassini-backoff"
 version = "0.4.2"
 edition = "2018"
 authors = ["Tibor Benke <ihrwein@gmail.com>"]

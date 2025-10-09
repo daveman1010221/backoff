@@ -227,6 +227,7 @@ mod retry;
 pub use crate::clock::{Clock, SystemClock};
 pub use crate::error::Error;
 pub use crate::retry::{retry, retry_notify, Notify};
+pub use crate::backoff::Backoff;
 
 /// Exponential backoff policy with system's clock.
 ///
